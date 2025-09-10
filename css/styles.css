@@ -180,8 +180,8 @@ img{
     overflow: hidden;
 }
 
-.main_title_section_two_li{
-    width: calc((100% - 3 * 24px) / 4);
+.main_section_two_list_li{
+    width: calc((100% - 72px) / 4);
 }
 
 .main_section_two_title_list {
